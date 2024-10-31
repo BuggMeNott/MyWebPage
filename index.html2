@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="witdh=device-witdh, initial-scale=1.0"\>
+       <title>SOAR AROUND THE GLOBE</title>
+       <link rel="stylesheet" href="style.css">
+       
+    </head>
+    <body>
+        <div class="top-bar">
+            <img src="images/TRAVEL LOGO.png" alt="logo">
+            <div class="menu">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="contactUs.html">Contact Us</a>
+            </div>
+        </div>
+
+        <div class="banner">
+            <h1>THE TRAVEL ODESSEY</h1>
+            <img src="" alt="">
+
+        </div>
+
+        <div class="destinations">
+            <div class="japan">
+                <img src="" alt="">
+                <P> INSERT PARAGRAPH</P>
+                <button>JAPAN</button>
+            </div>
+            <div class="oman">
+                <img src="" alt="">
+                <p>INSERT PARAGRAPGH</p>
+                <button>OMAN</button>
+            </div>
+            <div class="germany">
+                <img src="" alt="">
+                <p>INSERT PARAGRAPH</p>
+                <button>GERMANY</button>
+            </div>
+
+        </div>
+        <div class="footer">
+            <p>All rights reserved</p>
+
+        </div>
+    </body>
+</html>
+
+
+
+
+
+
+attempt 2
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="witdh=device-witdh, initial-scale=1.0"\>
+       <title>The Travel Odessey</title>
+       <link rel="stylesheet" href="style.css">
+       
+    
+       
+    </head>
+    <body>
+        <div class="container">
+            <img src="images/backgroundpic.png" alt="mountains" width="1520" height="740">
+            <div class="overlay-text">
+            <h1>THE TRAVEL ODESSEY</h1>
+                
+            <div class=" top-bar">
+                <img src="images/traveltrails.png" alt="logo" width="150" height="900">
+                <div class="menu">
+                    <a href="index.html">Home</a>
+                    <a href="about.html">About Us</a>
+                    <a href="contactus.html">Contact Us</a>
+                </div>
+             </div>
+                
+
+            </div>
+
+            </div>
+
+            </div>
+                
+        </div>   
+
+        </div>
+
+            
+        <div class="destinations">
+            <div class="japan">
+                <img src="images/japan.jpg" alt="image of japanese building">
+                <P> INSERT PARAGRAPH</P>
+                <button>JAPAN</button>
+            </div>
+            <div class="oman">
+                <img src="" alt="">
+                <p>INSERT PARAGRAPGH</p>
+                <button>OMAN</button>
+            </div>
+            <div class="germany">
+                <img src="" alt="">
+                <p>INSERT PARAGRAPH</p>
+                <button>GERMANY</button>
+            </div>
+
+        </div>
+        <div class="footer">
+            <h6>All rights reserved</h6>
+
+        </div>
+    </body>
+</html>
+
+
+
+
+contactus page
+
+<body>
+    <div class="section1">
+        
+        <div class="overlaytext1">
+            <p>GET IN TOUCH</p>
+            </div>
+        
+            <div class="overlaytext2">
+             <p>WANT TO GET IN TOUCH? WE’D LOVE TO HEAR FROM YOU. HERE’S HOW YOU CAN REACH US...</p>
+        </div>  
+     </div>
+
+
+    <div class="section2">
+        
+        <div class="emailtext">
+            <p>Interested in receiving travel updates?
+                Just E-mail us at:</p>
+        </div>
+        
+        <div class="email">
+            <p>traveltrails@gmail.com</p>
+        </div>
+        
+        <div class="comments">
+          <p>My team and I love hearing from you! Submit your question or review here. Your email address will not be published. </p>
+        </div>
+
+        <div class="message">
+            <p>MESSAGE</p>
+        </div>
+
+        <div class="author">
+            <p>AUTHOR*</p>
+        </div>
+
+        <div class="authoremail">
+            <p>EMAIL*</p>
+        </div>
+        
+    </div>
+</body>
